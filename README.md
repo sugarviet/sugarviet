@@ -1,5 +1,5 @@
 [![MasterHead](https://media2.giphy.com/media/WDZBrmwNjm5g8qsl1F/giphy.gif?cid=ecf05e476tzf7tx8gup9qhes1vj9o2qk3daxceue2hlfv2tv&rid=giphy.gif&ct=g)]
-<h1 align="center">Hi 👋, I'm Viet</h1>
+<h1 align="center">Hi 👋, I'm Viet Dang</h1>
 <h3 align="center">A passionate fullstack developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugarviet&label=Profile%20views&color=0e75b6&style=flat" alt="sugarviet" /> </p>
