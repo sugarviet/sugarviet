@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently study at **FPT University**
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
-
 - 📫 How to reach me **vietdanghoang1705@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
